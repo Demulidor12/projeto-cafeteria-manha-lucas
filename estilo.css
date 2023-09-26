@@ -112,7 +112,7 @@ p.texto {
 
 div.sub-banner1{
     
-    padding: 350px 0;
+    padding: 150px 0;
     width: 100%;
     background-image: url(assets/parallax-imagem2.jpg);
     background-size: cover;
@@ -133,7 +133,9 @@ div.sub-banner2 {
 }
 
 h3.sub-banner {
-    margin: 15px 770px;
+    font-weight: 400;
+    font-size: 25px;
+    margin: 15px 720px;
     padding: 5px;
     background-color: #604829;
 }
@@ -157,9 +159,9 @@ div.contatos {
 h2.contatos {
     background-color: #604829;
     color: #fff;
-    margin-left: 470px;
+    margin-left: 510px;
     margin-top: -15px;
-    margin-right: 470px;
+    margin-right: 510px;
     padding: 10px 0;
 }
 
@@ -167,7 +169,7 @@ p.contatos {
     background-color: #604829;
     color: #fff;
     padding: 15px 0;
-    margin: -14px 370px;
+    margin: -14px 610px;
     font-size: 12px;
     font-weight: bold;
 }
